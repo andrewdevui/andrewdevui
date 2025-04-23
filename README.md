@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="/Al_tABOADO.hpg"  />
+  <img height="200" src="/Al_tABOADO.jpg"  />
 </div>
 
 ###
