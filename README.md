@@ -1,8 +1,12 @@
-<h4 align="left">👋 ¡Hola! Soy Andres Buitrago<br><br>Soy un profesional en formación enfocado en el desarrollo de soluciones tecnológicas con impacto. Me especializo en el aprendizaje continuo de herramientas y lenguajes de programación que me permitan aportar a proyectos innovadores y de calidad. actualmente me especializo en .NET CORE<br><br>🎯 Perfil Profesional<br>- 💡 Apasionado por la tecnología y la resolución de problemas mediante el desarrollo de software.<br>- 📚 En constante aprendizaje de nuevas tecnologías, metodologías ágiles y buenas prácticas de programación.<br>- 🔍 Interesado en áreas como: desarrollo web con .NET, Blazor, gestión de bases de datos, APIs REST y optimización de procesos.<br>- 🤝 En búsqueda de oportunidades para colaborar en proyectos donde pueda aplicar y fortalecer mis habilidades técnicas y analíticas.<br><br>🧠 Actualmente aprendiendo<br>- Desarrollo de interfaces interactivas con **Blazor**<br>- Patrones de diseño y buenas prácticas en **.NET**<br>- Uso eficiente de **Entity Framework Core** para la gestión de datos<br>- Construcción de aplicaciones web modernas con **Angular**<br>- Programación tipada y estructurada con **TypeScript**<br><br>🧩 Proyectos destacados<br>- **Sistema de Manejo de Presupuestos**  <br>  Aplicación desarrollada como parte de un curso especializado en Udemy. Permite la gestión de presupuestos, generación de reportes y administración de usuarios.  <br>  Tecnologías: **.NET Blazor**, **JavaScript**, **SQL Server**<br><br>- **Generador Dinámico de PL/SQL** *(en desarrollo)*  <br>  Aplicación pensada para facilitar la construcción dinámica de sentencias PL/SQL a partir de formularios personalizados.  <br>  Tecnologías propuestas: **.NET**, **SQL Server**, posible integración con herramientas de análisis de bases de datos.<br><br>## 📫 ¿Cómo contactarme?<br>- LinkedIn: [Tu perfil]<br>- Correo electrónico: [Tu correo profesional]<br>- Portafolio o blog (si aplica): [Enlace]<br><br>---<br><br>> _“Cada línea de código es una oportunidad para aprender, mejorar y construir algo que importe.”_</h5>
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<h3 align="left">🛠️Language and tools</h3>
+<h4 align="left">👋 ¡Hola! Soy Andres Buitrago<br><br>Soy un profesional en formación enfocado en el desarrollo de soluciones tecnológicas con impacto. Me especializo en el aprendizaje continuo de herramientas y lenguajes de programación que me permitan aportar a proyectos innovadores y de calidad. actualmente me especializo en .NET CORE<br><br>🎯 Perfil Profesional<br>- 💡 Apasionado por la tecnología y la resolución de problemas mediante el desarrollo de software.<br>- 📚 En constante aprendizaje de nuevas tecnologías, metodologías ágiles y buenas prácticas de programación.<br>- 🔍 Interesado en áreas como: desarrollo web con .NET, Blazor, gestión de bases de datos, APIs REST y optimización de procesos.<br>- 🤝 En búsqueda de oportunidades para colaborar en proyectos donde pueda aplicar y fortalecer mis habilidades técnicas y analíticas.<br><br>🧠 Actualmente aprendiendo<br>- Desarrollo de interfaces interactivas con **Blazor**<br>- Patrones de diseño y buenas prácticas en **.NET**<br>- Uso eficiente de **Entity Framework Core** para la gestión de datos<br>- Construcción de aplicaciones web modernas con **Angular**<br>- Programación tipada y estructurada con **TypeScript**<br><br>🧩 Proyectos destacados<br>- **Sistema de Manejo de Presupuestos**  <br>  Aplicación desarrollada como parte de un curso especializado en Udemy. Permite la gestión de presupuestos, generación de reportes y administración de usuarios.  <br>  Tecnologías: **.NET Blazor**, **JavaScript**, **SQL Server**<br><br>- **Generador Dinámico de PL/SQL** *(en desarrollo)*  <br>  Aplicación pensada para facilitar la construcción dinámica de sentencias PL/SQL a partir de formularios personalizados.  <br>  Tecnologías propuestas: **.NET**, **SQL Server**, posible integración con herramientas de análisis de bases de datos.<br><br>## 📫 ¿Cómo contactarme?<br>- LinkedIn: [Tu perfil]<br>- Correo electrónico: [Tu correo profesional]<br>- Portafolio o blog (si aplica): [Enlace]<br><br>---<br><br>> _“Cada línea de código es una oportunidad para aprender, mejorar y construir algo que importe.”_</h4>
+
+###
+
+<h2 align="left">🛠️Language and tools</h2>
 
 ###
 
@@ -47,6 +51,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/andrewdevui/andrewdevui/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h6 align="center">👀View counter</h6>
 
 ###
@@ -54,10 +62,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/andrewdevui/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/andrewdevui/andrewdevui/output/snake.svg" alt="Snake animation" />
 
 ###
 
