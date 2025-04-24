@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andrewdevui/andrewdevui/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/andrewdevui/andrewdevui/snake.svg" alt="Snake animation" />
 
 ###
 
