@@ -36,8 +36,6 @@
 ###
 
 
-
-
 ###
 
 <h2 align="left">🔥My stats:</h2>
@@ -52,6 +50,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/andrewdevui/andrewdevui/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
